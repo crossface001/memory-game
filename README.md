@@ -1,2 +1,1 @@
-# simon-says
-Simon Says Game
+# memory game
